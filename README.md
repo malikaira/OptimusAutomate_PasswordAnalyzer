@@ -20,4 +20,4 @@ Password Strength Analyzer — Optimus Automate Cybersecurity Internship Task 1
 HTML · CSS · Vanilla JavaScript — no frameworks, no dependencies
 
 ## Live Demo
-*(paste your GitHub Pages link here after enabling it)*
+ https://malikaira.github.io/OptimusAutomate_PasswordAnalyzer/
